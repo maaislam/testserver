@@ -1,0 +1,76 @@
+{
+  "posts": [
+    {
+      "author": "Arafat Islam",
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "category": [
+        "science",
+        "programming",
+        "lifestyle",
+        "sports",
+        "fashion",
+        "entertainment",
+        "awesome"
+      ],
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam non ante in mi posuere  laoreet eget nec magna. Curabitur non dolor congue, tempor nunc et, semper tortor. Curabitur rutrum suscipit pharetra. Suspendisse eu tortor vehicula, tempor velit eu, lacinia turpis. Etiam fringilla faucibus egestas. Vestibulum dui nisl, rutrum sit amet lacus eu, aliquet ultricies tellus. Fusce nec nunc tellus. Donec pellentesque pretium lorem in pulvinar. Donec ac lectus sem. Nam condimentum sollicitudin risus, sed bibendum orci viverra aliquet. Fusce varius at justo et posuere. Aenean vestibulum ornare tellus, non congue nisl posuere et. Maecenas pharetra sapien sed bibendum elementum. Duis fermentum orci neque, sed pellentesque velit vulputate in. Donec dapibus interdum sem nec pellentesque. Etiam sit amet gravida magna. Maecenas dignissim id lectus id aliquet. Ut tincidunt at nibh vitae placerat. Phasellus in nibh ut est ultrices ultrices. Proin imperdiet, ante non semper scelerisque, odio orci dictum sapien, eu tempor ligula nisi nec nunc. Duis molestie dolor non odio facilisis, ut accumsan erat auctor. Praesent id tellus quis elit condimentum egestas nec sed lorem. Praesent porttitor efficitur volutpat. ",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam non ante in mi posuere  laoreet eget nec magna. Curabitur non dolor congue, tempor nunc et, semper tortor. Curabitur rutrum suscipit pharetra. Suspendisse eu tortor vehicula, tempor velit eu, lacinia turpis. Etiam fringilla faucibus egestas. Vestibulum dui nisl, rutrum sit amet lacus eu, aliquet ultricies tellus. Fusce nec nunc tellus. Donec pellentesque pretium lorem in pulvinar. Donec ac lectus sem. Nam condimentum sollicitudin risus, sed bibendum orci viverra aliquet. Fusce varius at justo et posuere. Aenean vestibulum ornare tellus, non congue nisl posuere et. Maecenas pharetra sapien sed bibendum elementum. Duis fermentum orci neque, sed pellentesque velit vulputate in. Donec dapibus interdum sem nec pellentesque. Etiam sit amet gravida magna. Maecenas dignissim id lectus id aliquet. Ut tincidunt at nibh vitae placerat. Phasellus in nibh ut est ultrices ultrices. Proin imperdiet, ante non semper scelerisque, odio orci dictum sapien, eu tempor ligula nisi nec nunc. Duis molestie dolor non odio facilisis, ut accumsan erat auctor. Praesent id tellus quis elit condimentum egestas nec sed lorem. Praesent porttitor efficitur volutpat.",
+      "author": "mark",
+      "category": [
+        "lifestyle",
+        "fashion"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam non ante in mi posuere  laoreet eget nec magna. Curabitur non dolor congue, tempor nunc et, semper tortor. Curabitur rutrum suscipit pharetra. Suspendisse eu tortor vehicula, tempor velit eu, lacinia turpis. Etiam fringilla faucibus egestas. Vestibulum dui nisl, rutrum sit amet lacus eu, aliquet ultricies tellus. Fusce nec nunc tellus. Donec pellentesque pretium lorem in pulvinar. Donec ac lectus sem. Nam condimentum sollicitudin risus, sed bibendum orci viverra aliquet. Fusce varius at justo et posuere. Aenean vestibulum ornare tellus, non congue nisl posuere et. Maecenas pharetra sapien sed bibendum elementum. Duis fermentum orci neque, sed pellentesque velit vulputate in. Donec dapibus interdum sem nec pellentesque. Etiam sit amet gravida magna. Maecenas dignissim id lectus id aliquet. Ut tincidunt at nibh vitae placerat. Phasellus in nibh ut est ultrices ultrices. Proin imperdiet, ante non semper scelerisque, odio orci dictum sapien, eu tempor ligula nisi nec nunc. Duis molestie dolor non odio facilisis, ut accumsan erat auctor. Praesent id tellus quis elit condimentum egestas nec sed lorem. Praesent porttitor efficitur volutpat.",
+      "author": "sara",
+      "category": [
+        "sports",
+        "entertainment"
+      ]
+    },
+    {
+      "author": "Arafat",
+      "title": "testing the app",
+      "category": [
+        "programming",
+        "science",
+        "modern"
+      ],
+      "body": "adasd dadasdada adada dasd dasda d'lk' [[poi jijfdifdifidjfid1615531",
+      "id": "2QLRyAi"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "science"
+    },
+    {
+      "id": "2",
+      "name": "programming"
+    },
+    {
+      "id": "3",
+      "name": "lifestyle"
+    },
+    {
+      "id": "4",
+      "name": "entertainment"
+    },
+    {
+      "id": "5",
+      "name": "sports"
+    },
+    {
+      "id": "6",
+      "name": "fashion"
+    }
+  ]
+}
